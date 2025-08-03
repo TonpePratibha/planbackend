@@ -1,0 +1,15 @@
+C:\Users\Admin\source\repos\plancrud\DataAcessLayer\bin\Debug\net8.0\DataAcessLayer.deps.json
+C:\Users\Admin\source\repos\plancrud\DataAcessLayer\bin\Debug\net8.0\DataAcessLayer.runtimeconfig.json
+C:\Users\Admin\source\repos\plancrud\DataAcessLayer\bin\Debug\net8.0\DataAcessLayer.dll
+C:\Users\Admin\source\repos\plancrud\DataAcessLayer\bin\Debug\net8.0\DataAcessLayer.pdb
+C:\Users\Admin\source\repos\plancrud\DataAcessLayer\obj\Debug\net8.0\DataAcessLayer.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\plancrud\DataAcessLayer\obj\Debug\net8.0\DataAcessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\plancrud\DataAcessLayer\obj\Debug\net8.0\DataAcessLayer.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\plancrud\DataAcessLayer\obj\Debug\net8.0\DataAcessLayer.AssemblyInfo.cs
+C:\Users\Admin\source\repos\plancrud\DataAcessLayer\obj\Debug\net8.0\DataAcessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\plancrud\DataAcessLayer\obj\Debug\net8.0\DataAcessLayer.sourcelink.json
+C:\Users\Admin\source\repos\plancrud\DataAcessLayer\obj\Debug\net8.0\DataAcessLayer.dll
+C:\Users\Admin\source\repos\plancrud\DataAcessLayer\obj\Debug\net8.0\refint\DataAcessLayer.dll
+C:\Users\Admin\source\repos\plancrud\DataAcessLayer\obj\Debug\net8.0\DataAcessLayer.pdb
+C:\Users\Admin\source\repos\plancrud\DataAcessLayer\obj\Debug\net8.0\DataAcessLayer.genruntimeconfig.cache
+C:\Users\Admin\source\repos\plancrud\DataAcessLayer\obj\Debug\net8.0\ref\DataAcessLayer.dll

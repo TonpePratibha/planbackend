@@ -1,0 +1,16 @@
+C:\Users\Admin\source\repos\plancrud\buisnessLayer\bin\Debug\net8.0\buisnessLayer.deps.json
+C:\Users\Admin\source\repos\plancrud\buisnessLayer\bin\Debug\net8.0\buisnessLayer.dll
+C:\Users\Admin\source\repos\plancrud\buisnessLayer\bin\Debug\net8.0\buisnessLayer.pdb
+C:\Users\Admin\source\repos\plancrud\buisnessLayer\bin\Debug\net8.0\DataAcessLayer.dll
+C:\Users\Admin\source\repos\plancrud\buisnessLayer\bin\Debug\net8.0\DataAcessLayer.pdb
+C:\Users\Admin\source\repos\plancrud\buisnessLayer\obj\Debug\net8.0\buisnessLayer.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\plancrud\buisnessLayer\obj\Debug\net8.0\buisnessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\plancrud\buisnessLayer\obj\Debug\net8.0\buisnessLayer.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\plancrud\buisnessLayer\obj\Debug\net8.0\buisnessLayer.AssemblyInfo.cs
+C:\Users\Admin\source\repos\plancrud\buisnessLayer\obj\Debug\net8.0\buisnessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\plancrud\buisnessLayer\obj\Debug\net8.0\buisnessLayer.sourcelink.json
+C:\Users\Admin\source\repos\plancrud\buisnessLayer\obj\Debug\net8.0\buisness.53D8FC69.Up2Date
+C:\Users\Admin\source\repos\plancrud\buisnessLayer\obj\Debug\net8.0\buisnessLayer.dll
+C:\Users\Admin\source\repos\plancrud\buisnessLayer\obj\Debug\net8.0\refint\buisnessLayer.dll
+C:\Users\Admin\source\repos\plancrud\buisnessLayer\obj\Debug\net8.0\buisnessLayer.pdb
+C:\Users\Admin\source\repos\plancrud\buisnessLayer\obj\Debug\net8.0\ref\buisnessLayer.dll

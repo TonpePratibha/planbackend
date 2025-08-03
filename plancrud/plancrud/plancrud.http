@@ -1,0 +1,6 @@
+@plancrud_HostAddress = http://localhost:5075
+
+GET {{plancrud_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

@@ -1,0 +1,234 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\source\\repos\\plancrud\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4FCE5833-B4B5-4B76-8E7C-63089BD3FDA1}|DataAcessLayer\\DataAcessLayer.csproj|c:\\users\\admin\\source\\repos\\plancrud\\dataacesslayer\\planrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FCE5833-B4B5-4B76-8E7C-63089BD3FDA1}|DataAcessLayer\\DataAcessLayer.csproj|solutionrelative:dataacesslayer\\planrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FCE5833-B4B5-4B76-8E7C-63089BD3FDA1}|DataAcessLayer\\DataAcessLayer.csproj|c:\\users\\admin\\source\\repos\\plancrud\\dataacesslayer\\iplanrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FCE5833-B4B5-4B76-8E7C-63089BD3FDA1}|DataAcessLayer\\DataAcessLayer.csproj|solutionrelative:dataacesslayer\\iplanrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C467D0D-1C7D-4E75-B2A3-F1DF6C8C2E03}|plancrud\\plancrud.csproj|c:\\users\\admin\\source\\repos\\plancrud\\plancrud\\controllers\\plancontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C467D0D-1C7D-4E75-B2A3-F1DF6C8C2E03}|plancrud\\plancrud.csproj|solutionrelative:plancrud\\controllers\\plancontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FCE5833-B4B5-4B76-8E7C-63089BD3FDA1}|DataAcessLayer\\DataAcessLayer.csproj|c:\\users\\admin\\source\\repos\\plancrud\\dataacesslayer\\models\\plancrud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FCE5833-B4B5-4B76-8E7C-63089BD3FDA1}|DataAcessLayer\\DataAcessLayer.csproj|solutionrelative:dataacesslayer\\models\\plancrud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C467D0D-1C7D-4E75-B2A3-F1DF6C8C2E03}|plancrud\\plancrud.csproj|c:\\users\\admin\\source\\repos\\plancrud\\plancrud\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C467D0D-1C7D-4E75-B2A3-F1DF6C8C2E03}|plancrud\\plancrud.csproj|solutionrelative:plancrud\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6ECE0CE4-1065-4DD4-84D7-BAF6B64B9574}|buisnessLayer\\buisnessLayer.csproj|c:\\users\\admin\\source\\repos\\plancrud\\buisnesslayer\\buisnesslayer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{6ECE0CE4-1065-4DD4-84D7-BAF6B64B9574}|buisnessLayer\\buisnessLayer.csproj|solutionrelative:buisnesslayer\\buisnesslayer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C467D0D-1C7D-4E75-B2A3-F1DF6C8C2E03}|plancrud\\plancrud.csproj|c:\\users\\admin\\source\\repos\\plancrud\\plancrud\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8C467D0D-1C7D-4E75-B2A3-F1DF6C8C2E03}|plancrud\\plancrud.csproj|solutionrelative:plancrud\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FCE5833-B4B5-4B76-8E7C-63089BD3FDA1}|DataAcessLayer\\DataAcessLayer.csproj|c:\\users\\admin\\source\\repos\\plancrud\\dataacesslayer\\planmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FCE5833-B4B5-4B76-8E7C-63089BD3FDA1}|DataAcessLayer\\DataAcessLayer.csproj|solutionrelative:dataacesslayer\\planmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FCE5833-B4B5-4B76-8E7C-63089BD3FDA1}|DataAcessLayer\\DataAcessLayer.csproj|c:\\users\\admin\\source\\repos\\plancrud\\dataacesslayer\\models\\dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FCE5833-B4B5-4B76-8E7C-63089BD3FDA1}|DataAcessLayer\\DataAcessLayer.csproj|solutionrelative:dataacesslayer\\models\\dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FCE5833-B4B5-4B76-8E7C-63089BD3FDA1}|DataAcessLayer\\DataAcessLayer.csproj|c:\\users\\admin\\source\\repos\\plancrud\\dataacesslayer\\dataacesslayer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{4FCE5833-B4B5-4B76-8E7C-63089BD3FDA1}|DataAcessLayer\\DataAcessLayer.csproj|solutionrelative:dataacesslayer\\dataacesslayer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C467D0D-1C7D-4E75-B2A3-F1DF6C8C2E03}|plancrud\\plancrud.csproj|c:\\users\\admin\\source\\repos\\plancrud\\plancrud\\plancrud.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{8C467D0D-1C7D-4E75-B2A3-F1DF6C8C2E03}|plancrud\\plancrud.csproj|solutionrelative:plancrud\\plancrud.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FCE5833-B4B5-4B76-8E7C-63089BD3FDA1}|DataAcessLayer\\DataAcessLayer.csproj|c:\\users\\admin\\source\\repos\\plancrud\\dataacesslayer\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FCE5833-B4B5-4B76-8E7C-63089BD3FDA1}|DataAcessLayer\\DataAcessLayer.csproj|solutionrelative:dataacesslayer\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6ECE0CE4-1065-4DD4-84D7-BAF6B64B9574}|buisnessLayer\\buisnessLayer.csproj|c:\\users\\admin\\source\\repos\\plancrud\\buisnesslayer\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6ECE0CE4-1065-4DD4-84D7-BAF6B64B9574}|buisnessLayer\\buisnessLayer.csproj|solutionrelative:buisnesslayer\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\plancrud\\plancrud\\Program.cs",
+              "RelativeDocumentMoniker": "plancrud\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\plancrud\\plancrud\\Program.cs",
+              "RelativeToolTip": "plancrud\\Program.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAAAAABsAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-02T07:52:24.02Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PlanRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\plancrud\\DataAcessLayer\\PlanRepository.cs",
+              "RelativeDocumentMoniker": "DataAcessLayer\\PlanRepository.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\plancrud\\DataAcessLayer\\PlanRepository.cs*",
+              "RelativeToolTip": "DataAcessLayer\\PlanRepository.cs*",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAAACgAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-02T07:46:31.62Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Iplanrepo.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\plancrud\\DataAcessLayer\\Iplanrepo.cs",
+              "RelativeDocumentMoniker": "DataAcessLayer\\Iplanrepo.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\plancrud\\DataAcessLayer\\Iplanrepo.cs",
+              "RelativeToolTip": "DataAcessLayer\\Iplanrepo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-02T07:46:01.237Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PlanCrud.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\plancrud\\DataAcessLayer\\Models\\PlanCrud.cs",
+              "RelativeDocumentMoniker": "DataAcessLayer\\Models\\PlanCrud.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\plancrud\\DataAcessLayer\\Models\\PlanCrud.cs",
+              "RelativeToolTip": "DataAcessLayer\\Models\\PlanCrud.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAwBgAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-02T07:45:09.739Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DBContext.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\plancrud\\DataAcessLayer\\Models\\DBContext.cs",
+              "RelativeDocumentMoniker": "DataAcessLayer\\Models\\DBContext.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\plancrud\\DataAcessLayer\\Models\\DBContext.cs",
+              "RelativeToolTip": "DataAcessLayer\\Models\\DBContext.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-02T07:44:57.596Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DataAcessLayer.csproj",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\plancrud\\DataAcessLayer\\DataAcessLayer.csproj",
+              "RelativeDocumentMoniker": "DataAcessLayer\\DataAcessLayer.csproj",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\plancrud\\DataAcessLayer\\DataAcessLayer.csproj",
+              "RelativeToolTip": "DataAcessLayer\\DataAcessLayer.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-08-02T07:40:48.069Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\plancrud\\plancrud\\appsettings.json",
+              "RelativeDocumentMoniker": "plancrud\\appsettings.json",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\plancrud\\plancrud\\appsettings.json",
+              "RelativeToolTip": "plancrud\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-02T07:39:41.718Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "buisnessLayer.csproj",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\plancrud\\buisnessLayer\\buisnessLayer.csproj",
+              "RelativeDocumentMoniker": "buisnessLayer\\buisnessLayer.csproj",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\plancrud\\buisnessLayer\\buisnessLayer.csproj",
+              "RelativeToolTip": "buisnessLayer\\buisnessLayer.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-08-02T07:29:59.694Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PlanController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\plancrud\\plancrud\\Controllers\\PlanController.cs",
+              "RelativeDocumentMoniker": "plancrud\\Controllers\\PlanController.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\plancrud\\plancrud\\Controllers\\PlanController.cs",
+              "RelativeToolTip": "plancrud\\Controllers\\PlanController.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAA3wBIAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-02T09:19:40.826Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Planmodel.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\plancrud\\DataAcessLayer\\Planmodel.cs",
+              "RelativeDocumentMoniker": "DataAcessLayer\\Planmodel.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\plancrud\\DataAcessLayer\\Planmodel.cs",
+              "RelativeToolTip": "DataAcessLayer\\Planmodel.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA0AAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-02T09:09:53.589Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "plancrud.csproj",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\plancrud\\plancrud\\plancrud.csproj",
+              "RelativeDocumentMoniker": "plancrud\\plancrud.csproj",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\plancrud\\plancrud\\plancrud.csproj",
+              "RelativeToolTip": "plancrud\\plancrud.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-08-02T07:29:26.441Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\plancrud\\DataAcessLayer\\Class1.cs",
+              "RelativeDocumentMoniker": "DataAcessLayer\\Class1.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\plancrud\\DataAcessLayer\\Class1.cs",
+              "RelativeToolTip": "DataAcessLayer\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-02T06:38:49.823Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\plancrud\\buisnessLayer\\Class1.cs",
+              "RelativeDocumentMoniker": "buisnessLayer\\Class1.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\plancrud\\buisnessLayer\\Class1.cs",
+              "RelativeToolTip": "buisnessLayer\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-02T06:37:05.667Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
